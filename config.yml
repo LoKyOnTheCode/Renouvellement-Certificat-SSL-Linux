@@ -1,0 +1,17 @@
+vm1:
+  ip: my_ip
+  user: login
+  password: password
+
+
+vm2:
+  ip: my_ip2
+  user: login
+  password: password
+
+
+#vm3 doit timeout (existe pas)
+vm3:
+  ip: my_ip3
+  user: login
+  password: password
